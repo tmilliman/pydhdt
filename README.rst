@@ -10,7 +10,7 @@ pydhdt
       :target: https://travis-ci.org/tmilliman/pydhdt
       :alt: Latest Travis CI build status
 
-""package for accessing the UNH laser altimetry database tables"
+"package for accessing the UNH laser altimetry database tables"
 
 Usage
 -----
